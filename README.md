@@ -1,0 +1,1 @@
+### Sample Static Website for GOOGLE CLOUD STUDY JAM 2023
